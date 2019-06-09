@@ -48,7 +48,7 @@ public class Deck {
 		// this is for debugging
 		 //printDeck();
 	}
-
+ 
 	// for debugging: print out entire deck
 	void printDeck() {
 		for(Card car: allCards) { System.out.print(car.printCard() + " "); }
